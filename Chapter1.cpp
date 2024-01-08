@@ -15,6 +15,7 @@ void main() {
 	Mat img = imread(path);
 	imshow("Image", img);
 	waitKey(0);
+	///
 
 }
 
