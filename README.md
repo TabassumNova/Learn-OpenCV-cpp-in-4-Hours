@@ -1,3 +1,24 @@
+# OpenCV C++ Install on linux
+- https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/
+  
+# Cmake from VSCode
+- Add Extension C/C++, CMake
+- Create src(.cpp files), include(.h files) and build folders
+  ```
+  - working_dir
+    - src
+    - include
+    - build
+    - CMakeLists.txt
+  ```
+- cd build/
+- cmake -S ../
+- make
+
+
+
+
+
 # LEARN OPENCV C++ in 4 HOURS
 [![Watch Video](https://github.com/murtazahassan/opencv-cpp-course/blob/main/ExtraImages/OPENCV-Cpp-4-hours.png)](https://youtu.be/2FYm3GOonhk)
 
