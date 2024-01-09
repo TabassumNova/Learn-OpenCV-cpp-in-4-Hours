@@ -1,0 +1,13 @@
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter1.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter2.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter3.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter4.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter5.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter6.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter7.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Chapter8.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Project1.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Project2.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/Project3.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/edit_cache.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/rebuild_cache.dir

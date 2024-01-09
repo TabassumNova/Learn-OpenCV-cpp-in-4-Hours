@@ -1,0 +1,3 @@
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/first_test.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/edit_cache.dir
+/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles/rebuild_cache.dir
