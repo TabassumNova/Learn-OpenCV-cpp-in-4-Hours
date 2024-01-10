@@ -24,19 +24,19 @@ int main() {
 
 ///////////////  Video  //////////////////////
 
-//void main() {
-//
-//	string path = "Resources/test_video.mp4";
-//	VideoCapture cap(path);
-//	Mat img;
-//
-//	while (true) {
-//
-//		cap.read(img);
-//		imshow("Image", img);
-//		waitKey(20);
-//	}
-//}
+// void main() {
+
+// 	string path = "Resources/test_video.mp4";
+// 	VideoCapture cap(path);
+// 	Mat img;
+
+// 	while (true) {
+
+// 		cap.read(img);
+// 		imshow("Image", img);
+// 		waitKey(20);
+// 	}
+// }
 
 
 /////////////////  Webcam  //////////////////////
