@@ -1,8 +1,9 @@
 ######## A simple cmakelists.txt file for OpenCV() #############  
-cmake_minimum_required(VERSION 2.8)                            
+cmake_minimum_required(VERSION 3.22.1)                            
 PROJECT(all_test)                                         
 
-FIND_PACKAGE( OpenCV REQUIRED )                              
+FIND_PACKAGE( OpenCV REQUIRED ) 
+# INCLUDE_DIRECTORIES("/usr/local/include/opencv4")                             
 INCLUDE_DIRECTORIES( ${OpenCV_INCLUDE_DIRS} )
 
 # FILE(GLOB all_test_SRC

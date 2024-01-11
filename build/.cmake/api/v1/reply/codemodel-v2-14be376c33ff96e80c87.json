@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "all_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter1-Debug-598d7cdd3c69922c0424.json",
+					"name" : "Chapter1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter2-Debug-5534cd0f9c2d1ace38b7.json",
+					"name" : "Chapter2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter3-Debug-5848cbfae2830a780fc5.json",
+					"name" : "Chapter3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter4-Debug-ab1dc08820089573b53b.json",
+					"name" : "Chapter4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter5-Debug-d505d334196d6dd218dd.json",
+					"name" : "Chapter5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter6-Debug-d24f312fad3d1ffbc9ce.json",
+					"name" : "Chapter6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter7-Debug-98b89736ee21d4e05206.json",
+					"name" : "Chapter7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter8-Debug-e2d7794c76d61eb3d1b6.json",
+					"name" : "Chapter8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project1-Debug-ae2358f57018b3f7c872.json",
+					"name" : "Project1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project2-Debug-32ca639be6d05ca3be96.json",
+					"name" : "Project2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project3-Debug-abe819c319c5fd8ba0af.json",
+					"name" : "Project3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+		"source" : "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

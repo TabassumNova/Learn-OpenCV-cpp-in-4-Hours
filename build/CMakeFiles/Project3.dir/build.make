@@ -73,15 +73,15 @@ CMakeFiles/Project3.dir/src/Project3.cpp.o: CMakeFiles/Project3.dir/flags.make
 CMakeFiles/Project3.dir/src/Project3.cpp.o: ../src/Project3.cpp
 CMakeFiles/Project3.dir/src/Project3.cpp.o: CMakeFiles/Project3.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project3.dir/src/Project3.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3.dir/src/Project3.cpp.o -MF CMakeFiles/Project3.dir/src/Project3.cpp.o.d -o CMakeFiles/Project3.dir/src/Project3.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp
+	/usr/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3.dir/src/Project3.cpp.o -MF CMakeFiles/Project3.dir/src/Project3.cpp.o.d -o CMakeFiles/Project3.dir/src/Project3.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp
 
 CMakeFiles/Project3.dir/src/Project3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project3.dir/src/Project3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp > CMakeFiles/Project3.dir/src/Project3.cpp.i
+	/usr/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp > CMakeFiles/Project3.dir/src/Project3.cpp.i
 
 CMakeFiles/Project3.dir/src/Project3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project3.dir/src/Project3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp -o CMakeFiles/Project3.dir/src/Project3.cpp.s
+	/usr/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp -o CMakeFiles/Project3.dir/src/Project3.cpp.s
 
 # Object files for target Project3
 Project3_OBJECTS = \

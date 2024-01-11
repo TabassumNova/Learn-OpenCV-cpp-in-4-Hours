@@ -73,15 +73,15 @@ CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o: CMakeFiles/Chapter6.dir/flags.make
 CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o: ../src/Chapter6.cpp
 CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o: CMakeFiles/Chapter6.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o -MF CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o.d -o CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp
+	/usr/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o -MF CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o.d -o CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp
 
 CMakeFiles/Chapter6.dir/src/Chapter6.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter6.dir/src/Chapter6.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp > CMakeFiles/Chapter6.dir/src/Chapter6.cpp.i
+	/usr/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp > CMakeFiles/Chapter6.dir/src/Chapter6.cpp.i
 
 CMakeFiles/Chapter6.dir/src/Chapter6.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter6.dir/src/Chapter6.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp -o CMakeFiles/Chapter6.dir/src/Chapter6.cpp.s
+	/usr/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp -o CMakeFiles/Chapter6.dir/src/Chapter6.cpp.s
 
 # Object files for target Chapter6
 Chapter6_OBJECTS = \

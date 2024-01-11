@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter1.dir/src/Chapter1.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter1.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter1.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter2.dir/src/Chapter2.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter2.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter2.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter3.dir/src/Chapter3.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter3.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter3.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter4.dir/src/Chapter4.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter4.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter4.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter5.dir/src/Chapter5.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter5.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter5.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter6.dir/src/Chapter6.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter6.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter7.dir/src/Chapter7.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter7.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter7.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Chapter8.dir/src/Chapter8.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter8.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Chapter8.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Project1.dir/src/Project1.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project1.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project1.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Project2.dir/src/Project2.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project2.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project2.cpp"
+},
+{
+  "directory": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/build",
+  "command": "/usr/bin/g++-10  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Project3.dir/src/Project3.cpp.o -c /home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp",
+  "file": "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/src/Project3.cpp"
+}
+]
