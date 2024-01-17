@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
 
-	string path = "Resources/test.png";
+	string path = "/home/shahad/Desktop/Nova/Computer_vision/Learn-OpenCV-cpp-in-4-Hours/Resources/im.png";
 	Mat img = imread(path);
 	Mat imgGray, imgBlur, imgCanny, imgDil, imgErode;
 

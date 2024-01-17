@@ -34,6 +34,5 @@ ADD_EXECUTABLE(Project2 src/Project2.cpp)
 TARGET_LINK_LIBRARIES (Project2 ${OpenCV_LIBS})
 ADD_EXECUTABLE(Project3 src/Project3.cpp) 
 TARGET_LINK_LIBRARIES (Project3 ${OpenCV_LIBS})
-# ADD_EXECUTABLE(first_test src/Chapter1.cpp)                         
-# TARGET_LINK_LIBRARIES (all_test ${OpenCV_LIBS})         
+      
 ########### end ####################################  
